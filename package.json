@@ -1,0 +1,14 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "Cruise Ships Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lisa Wyers",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
